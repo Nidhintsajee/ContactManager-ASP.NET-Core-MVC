@@ -1,0 +1,10 @@
+c:\Users\Nidhin\MvcContact\bin\Debug\netcoreapp2.0\MvcContact.deps.json
+c:\Users\Nidhin\MvcContact\bin\Debug\netcoreapp2.0\MvcContact.runtimeconfig.json
+c:\Users\Nidhin\MvcContact\bin\Debug\netcoreapp2.0\MvcContact.runtimeconfig.dev.json
+c:\Users\Nidhin\MvcContact\bin\Debug\netcoreapp2.0\MvcContact.dll
+c:\Users\Nidhin\MvcContact\bin\Debug\netcoreapp2.0\MvcContact.pdb
+c:\Users\Nidhin\MvcContact\obj\Debug\netcoreapp2.0\MvcContact.csproj.CoreCompileInputs.cache
+c:\Users\Nidhin\MvcContact\obj\Debug\netcoreapp2.0\MvcContact.AssemblyInfoInputs.cache
+c:\Users\Nidhin\MvcContact\obj\Debug\netcoreapp2.0\MvcContact.AssemblyInfo.cs
+c:\Users\Nidhin\MvcContact\obj\Debug\netcoreapp2.0\MvcContact.dll
+c:\Users\Nidhin\MvcContact\obj\Debug\netcoreapp2.0\MvcContact.pdb
